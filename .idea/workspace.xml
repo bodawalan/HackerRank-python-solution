@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="435d45e1-c42d-4310-a13e-028955e4adb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Very_big_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Diagonal_diff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plus_Minus.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cartesian_product.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cartesian_product.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +78,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Very_big_sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Very_big_sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Very_big_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diagonal_diff.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagonal_diff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plus_Minus.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plus_Minus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,16 +113,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="division.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vacation.py" />
-        <option value="$PROJECT_DIR$/abs.py" />
         <option value="$PROJECT_DIR$/odd.py" />
         <option value="$PROJECT_DIR$/list_less_five.py" />
         <option value="$PROJECT_DIR$/overlap_list.py" />
@@ -189,6 +188,8 @@
         <option value="$PROJECT_DIR$/degree_arr.py" />
         <option value="$PROJECT_DIR$/Compare_the_Triplets.py" />
         <option value="$PROJECT_DIR$/Very_big_sum.py" />
+        <option value="$PROJECT_DIR$/Diagonal_diff.py" />
+        <option value="$PROJECT_DIR$/plus_Minus.py" />
       </list>
     </option>
   </component>
@@ -263,43 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Very_big_sum">
-    <configuration default="false" name="shoes_size_profit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/current_buffer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="service_tian_H_C" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service_tian_H_C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.plus_Minus">
     <configuration default="false" name="degree_arr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,6 +314,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Hackerrank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Very_big_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Diagonal_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Diagonal_diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="plus_Minus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plus_Minus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,19 +420,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.shoes_size_profit" />
-      <item index="1" class="java.lang.String" itemvalue="Python.service_tian_H_C" />
-      <item index="2" class="java.lang.String" itemvalue="Python.degree_arr" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Compare_the_Triplets" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Very_big_sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.degree_arr" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Compare_the_Triplets" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Very_big_sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Diagonal_diff" />
+      <item index="4" class="java.lang.String" itemvalue="Python.plus_Minus" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Very_big_sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Compare_the_Triplets" />
-        <item index="2" class="java.lang.String" itemvalue="Python.degree_arr" />
-        <item index="3" class="java.lang.String" itemvalue="Python.service_tian_H_C" />
-        <item index="4" class="java.lang.String" itemvalue="Python.shoes_size_profit" />
+        <item index="0" class="java.lang.String" itemvalue="Python.plus_Minus" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Diagonal_diff" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Very_big_sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Compare_the_Triplets" />
+        <item index="4" class="java.lang.String" itemvalue="Python.degree_arr" />
       </list>
     </recent_temporary>
   </component>
@@ -494,20 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/odd_even_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -855,8 +842,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Very_big_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagonal_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plus_Minus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
