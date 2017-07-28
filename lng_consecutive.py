@@ -4,7 +4,7 @@
 
 
 my_str = str(input("enter the string:"))
-last_char = ""
+"""last_char = ""
 current_seq_len = 0
 max_seq_len = 0
 new_len_list=[]
@@ -24,4 +24,11 @@ for c in my_str:
 print(max_seq_len)
 print(new_len_list,new_ch_list)
 
-print((new_len_list[-1],new_ch_list[-1]))
+print((new_len_list[-1],new_ch_list[-1]))"""
+new_list=[]
+for i in range(len(my_str)):
+    if my_str[i] == my_str[i-1]:
+        new_list.append(my_str[i])
+
+print(new_list)
+print(range(len(my_str)))

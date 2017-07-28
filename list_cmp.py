@@ -7,3 +7,8 @@ if len(user_list_one) == len(user_list_two):
 # it will work with unequal length of list
 else:
     print([x for x in user_list_one if x in user_list_two])
+
+
+
+lines=[lines[0:(lines[i].find('(') - 1) ]for i in range(len(lines))if (lines[i].find('(')) != -1]
+
