@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="435d45e1-c42d-4310-a13e-028955e4adb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ans_2_css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/birth_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cartesian_product.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/current_buffer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dict_key_value_user.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game_board.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/group_by_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itertools_permutations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/max_wo_fun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/msg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/path_abs_change_path.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service_tian_H_C.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guess_game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/write_to_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/ElementTree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/etree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/xml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Compare_the_Triplets.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divisor.py" afterPath="$PROJECT_DIR$/divisor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list_cmp.py" afterPath="$PROJECT_DIR$/list_cmp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lng_consecutive.py" afterPath="$PROJECT_DIR$/lng_consecutive.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,11 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="degree_arr.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="degree_arr.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/degree_arr.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Compare_the_Triplets.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Compare_the_Triplets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,16 +92,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="duplicatearray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/duplicatearray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Api.py" />
         <option value="$PROJECT_DIR$/dict_to_list.py" />
         <option value="$PROJECT_DIR$/vacation.py" />
         <option value="$PROJECT_DIR$/abs.py" />
@@ -210,6 +188,7 @@
         <option value="$PROJECT_DIR$/current_buffer.py" />
         <option value="$PROJECT_DIR$/service_tian_H_C.py" />
         <option value="$PROJECT_DIR$/degree_arr.py" />
+        <option value="$PROJECT_DIR$/Compare_the_Triplets.py" />
       </list>
     </option>
   </component>
@@ -284,25 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.degree_arr">
-    <configuration default="false" name="cartesian_product" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cartesian_product.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Compare_the_Triplets">
     <configuration default="false" name="itertools_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,6 +336,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Compare_the_Triplets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Compare_the_Triplets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -440,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.cartesian_product" />
-      <item index="1" class="java.lang.String" itemvalue="Python.itertools_permutations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.shoes_size_profit" />
-      <item index="3" class="java.lang.String" itemvalue="Python.service_tian_H_C" />
-      <item index="4" class="java.lang.String" itemvalue="Python.degree_arr" />
+      <item index="0" class="java.lang.String" itemvalue="Python.itertools_permutations" />
+      <item index="1" class="java.lang.String" itemvalue="Python.shoes_size_profit" />
+      <item index="2" class="java.lang.String" itemvalue="Python.service_tian_H_C" />
+      <item index="3" class="java.lang.String" itemvalue="Python.degree_arr" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Compare_the_Triplets" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.degree_arr" />
-        <item index="1" class="java.lang.String" itemvalue="Python.service_tian_H_C" />
-        <item index="2" class="java.lang.String" itemvalue="Python.shoes_size_profit" />
-        <item index="3" class="java.lang.String" itemvalue="Python.itertools_permutations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cartesian_product" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Compare_the_Triplets" />
+        <item index="1" class="java.lang.String" itemvalue="Python.degree_arr" />
+        <item index="2" class="java.lang.String" itemvalue="Python.service_tian_H_C" />
+        <item index="3" class="java.lang.String" itemvalue="Python.shoes_size_profit" />
+        <item index="4" class="java.lang.String" itemvalue="Python.itertools_permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -479,15 +458,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="421" y="24" width="710" height="724" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30688623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28481013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28481013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22310127" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22310127" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -514,13 +494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/palindrome_str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reverse_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -875,6 +848,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Compare_the_Triplets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
