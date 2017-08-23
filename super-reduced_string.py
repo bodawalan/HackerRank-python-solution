@@ -1,17 +1,19 @@
-s="abccddd"
-
-j = 0
-count = 0
-new_count = 0
-for i in range(len(s)):
-    print(i)
-    if (count == 0):
-        j = s[i]
-        count = 1
-    else:
-        if (j == s[i]):
-            count = 0
-            new_count += 1
+def super_reduced_string(s):
+    m=list(s)
+    c=0
+    while c<len(m)-1 :
+        if m[c]==m[c+1]:
+            del m[c]
+            del m[c]
+            if c!=0:
+                c=c-1
         else:
-            j += 1
-print(new_count)
+            c=c+1
+    if len(m)==0:
+        return 'Empty String'
+    else:
+        return ''.join(map(str,m))
+
+
+result = super_reduced_string("aaabbbccd")
+print(result)
